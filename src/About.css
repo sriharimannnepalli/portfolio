@@ -1,0 +1,36 @@
+.push {
+    color: black;
+    padding-top: 150px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 100px 0px;
+    padding-top: 200px;
+
+    
+}
+.c2 {
+    font-style: oblique;
+    width: 600px;
+}
+.c3 {
+    font-style: oblique;
+    width: 600px;
+}
+.c4 {
+    font-style: italic;
+    font-size: 20px;
+}
+.c5 {
+    font-style: italic;
+    font-size: 20px;
+}
+
+.img img {
+    height: 400px;
+    border-radius: 10px;
+}
+
+.c4 span{
+    color: black
+}

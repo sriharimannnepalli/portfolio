@@ -1,0 +1,41 @@
+.outerBox {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 100vh;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 50px;
+
+ 
+}
+.first {
+    font-size: 30px;
+}
+.second {
+    color: rgb(140, 140, 229);
+    font-size: 45px;
+    
+}
+
+.second h1{
+    margin: 10px;
+}
+
+.innerFirst {
+    width: 550px;
+    height: 450px;
+
+}
+.Images {
+    display: flex;
+    width: 50%;
+    justify-content: space-between;
+    margin: 5px;
+    height: 30px;
+}
+.content {
+    font-size: 30px;
+    height: 75px;
+    width: 200px;
+}

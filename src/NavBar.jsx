@@ -14,11 +14,11 @@ const NavBar = () => {
         <li>Skills</li>
         <li>Qualifications</li>
         <li>Projects</li>
-        <li>Contacte</li>
+        <li>Contact</li>
         </ul>
 
         <div className='button'>
-        <button >LetsTalk</button>
+        <button >Resume</button>
         </div>
         <img src="https://api.iconify.design/material-symbols:partly-cloudy-day-rounded.svg" alt="" />
 
